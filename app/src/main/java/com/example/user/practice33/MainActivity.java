@@ -8,7 +8,8 @@ import android.widget.TextView;
 //third commit
 public class MainActivity extends AppCompatActivity {
 
-    TextView textView;
+    TextView textView1;
+    TextView textView2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
